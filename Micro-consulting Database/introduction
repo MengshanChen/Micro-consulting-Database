@@ -1,0 +1,47 @@
+CPSC 5021 Database System
+Team Name: MCAdvising (Micro-Career Advice) Team Leader: Erica (Mengshan) Chen
+Team members: Melissa McClure
+Nancy (Yue) Zhang
+
+Team Project: Micro-consulting Database
+Date: Tuesday, Oct 3, 2017 
+Reference: Evisors.com, Airbnb.com
+
+Description
+Most consulting websites allow everyday working people to provide career consulting
+service during their free time, the so-called micro-consulting concept. 
+They are similar to the service Airbnb provides, except that instead of renting their 
+house or room, these website let people rent out their time and expertise.
+Most current career consulting markets in America are one-directional, 
+which is not a good model for a highly flexible, evolving work environment that 
+we are heading towards. Therefore, the website not only provides a low-cost and 
+high-quality substitute product for the current career consulting market, 
+but also builds a community for people who value life-long learning and one- on-one 
+teaching experience. It is based on the belief that everyone has something to offer 
+someone else, no matter what career stage they are in.
+
+The basic functions for the project implementation include:
+(1) User account: A user needs to register for an account to use
+MCAdvising system functions. Basic account functions will be provided, 
+including registration, sign-in, and profile update. Both consultants and 
+those who seek career advice will have a profile.
+
+(2) Query: Those who seek consulting service can search potential career 
+consultants that they are interested in based on keywords or filters. 
+These may include: type of consulting, location, time slots, contact methods, 
+average customer review, language, price, location, industries and so on. 
+The query result then lists profiles of all qualified consultants.
+
+(3) Service organization/details: all consultants must list their working experience, 
+fields of expertise and related qualifications. Based on the topics and their compelling 
+experience, they might also list each service details, ie. price, consulting length, 
+location and availability, contact method along with service type, ie. resume critique, 
+mock interviews, professional relationship coaching, etc.
+
+(4) Transaction: Buyers book consulting service based on the listed price, 
+make payments through a secured system such as PayPal, and consultants will 
+receive the payment once service is rendered.
+
+(5) User interaction: A crucial part of the website is the review system. 
+Both consultants and those who received consulting services will be reviewed. 
+Reviews are available for all members to see.
